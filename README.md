@@ -1,6 +1,7 @@
 # Frontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.5.
+Class from youtube - https://www.youtube.com/watch?v=Y5_QwwTUfms&list=PLuXkauUmG1ZFtBL9A9r-YMHpMuXSaBKos&index=6
 
 ## Development server
 
